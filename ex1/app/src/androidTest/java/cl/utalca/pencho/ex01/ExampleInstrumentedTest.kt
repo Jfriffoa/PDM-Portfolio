@@ -1,4 +1,4 @@
-package cl.utalca.pencho.ex1
+package cl.utalca.pencho.ex01
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

@@ -1,4 +1,4 @@
-package cl.utalca.pencho.ex1
+package cl.utalca.pencho.ex02
 
 import org.junit.Test
 

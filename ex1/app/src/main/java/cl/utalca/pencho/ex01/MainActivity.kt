@@ -1,4 +1,4 @@
-package cl.utalca.pencho.ex1
+package cl.utalca.pencho.ex01
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
