@@ -1,4 +1,4 @@
-package com.example.pencho.ex1
+package cl.utalca.pencho.ex1
 
 import org.junit.Test
 

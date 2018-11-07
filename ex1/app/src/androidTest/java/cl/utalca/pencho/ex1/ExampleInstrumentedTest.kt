@@ -1,4 +1,4 @@
-package com.example.pencho.ex1
+package cl.utalca.pencho.ex1
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.example.pencho.ex1", appContext.packageName)
+        assertEquals("cl.utalca.pencho.ex1", appContext.packageName)
     }
 }

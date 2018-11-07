@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.pencho.ex1"
+        applicationId "cl.utalca.pencho.ex1"
         minSdkVersion 23
         targetSdkVersion 26
         versionCode 1
