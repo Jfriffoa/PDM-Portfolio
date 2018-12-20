@@ -1,4 +1,4 @@
-package cl.pdm.pencho.menutictactoe
+﻿package cl.pdm.pencho.menutictactoe
 
 //import android.graphics.Color
 import android.graphics.Color
@@ -128,7 +128,7 @@ class MainActivity : AppCompatActivity() {
                 tv_partidas.text = "Partidas Jugadas: $partidasJugadas"
                 done = true
             } else if (b.isFull()){                         //Ver si es que empataron
-                tv_winner.text = "EMPATE"
+                tv_winner.text = "¡EMPATE!"
                 partidasJugadas++
                 tv_partidas.text = "Partidas Jugadas: $partidasJugadas"
                 done = true
