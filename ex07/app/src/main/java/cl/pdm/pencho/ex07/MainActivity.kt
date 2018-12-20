@@ -1,4 +1,4 @@
-﻿package cl.pdm.pencho.menutictactoe
+﻿package cl.pdm.pencho.ex07
 
 //import android.graphics.Color
 import android.graphics.Color
@@ -7,7 +7,6 @@ import android.os.Bundle
 import android.util.Log
 import android.view.View
 import android.widget.Button
-import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

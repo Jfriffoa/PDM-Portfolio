@@ -1,4 +1,4 @@
-package cl.pdm.pencho.tictactoe
+package cl.pdm.pencho.ex05
 
 import org.junit.Test
 

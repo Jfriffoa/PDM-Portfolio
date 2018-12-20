@@ -1,4 +1,4 @@
-package cl.pdm.pencho.menutictactoe
+package cl.pdm.pencho.ex07
 
 import org.junit.Test
 

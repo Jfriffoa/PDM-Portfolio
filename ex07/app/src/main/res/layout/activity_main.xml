@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="cl.pdm.pencho.menutictactoe.MainActivity">
+    tools:context="cl.pdm.pencho.ex07.MainActivity">
 
     <LinearLayout
         android:id="@+id/linearLayout"

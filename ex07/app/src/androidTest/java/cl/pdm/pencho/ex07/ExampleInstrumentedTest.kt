@@ -1,4 +1,4 @@
-package cl.pdm.pencho.menutictactoe
+package cl.pdm.pencho.ex07
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

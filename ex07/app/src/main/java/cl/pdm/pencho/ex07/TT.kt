@@ -1,4 +1,4 @@
-package cl.pdm.pencho.menutictactoe
+package cl.pdm.pencho.ex07
 
 class TT {
     data class Entry(val hash:Int, val depth:Int, val value:Int, val bestMove:Pair<Int,Int>)

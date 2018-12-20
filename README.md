@@ -13,4 +13,5 @@ Este repositorio cuenta con las siguientes aplicaciones:
 * ex04: [Calculadora](ex04/README.md) - Pequeña y simple calculadora funcional.
 * ex05: [TicTacToe](ex05/README.md) - Tic Tac Toe con interfaz gráfica simple.
 * ex06: [Connect4](ex06/README.md) - Connect 4 con interfaz gráfica simple.
-* ex07: [TTT-Menu](ex07/README.md) - Tic Tac Toe con un menu para jugar contra la IA o contra otro jugador.
+* ex07: [TTT-Menu](ex07/README.md) - Tic Tac Toe con un menu para jugar contra la IA o contra otro jugador. 
+* ex08: [Connect4-Menu](ex08/README.md) - Connect 4 con un menu para jugar contra la IA o contra otro jugador.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cl.pdm.pencho.menutictactoe">
+    package="cl.pdm.pencho.ex07">
 
     <application
         android:allowBackup="true"
@@ -9,14 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="cl.pdm.pencho.menutictactoe.MenuActivity">
+        <activity android:name="cl.pdm.pencho.ex07.MenuActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="cl.pdm.pencho.menutictactoe.MainActivity"></activity>
+        <activity android:name="cl.pdm.pencho.ex07.MainActivity"></activity>
     </application>
 
 </manifest>
