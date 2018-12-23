@@ -12,8 +12,9 @@ Este repositorio cuenta con las siguientes aplicaciones:
 * ex03: [BMI](ex03/README.md) - Calculadora de BMI según edad, peso, sexo y altura.
 * ex04: [Calculadora](ex04/README.md) - Pequeña y simple calculadora funcional.
 * ex05: [TicTacToe](ex05/README.md) - Tic Tac Toe con interfaz gráfica simple.
-* ex06: [Connect4](ex06/README.md) - Connect 4 con interfaz gráfica simple.
-* ex07: [TTT-Menu](ex07/README.md) - Tic Tac Toe con un menu para jugar contra la IA o contra otro jugador. 
-* ex08: [Connect4-Menu](ex08/README.md) - Connect 4 con un menu para jugar contra la IA o contra otro jugador.
-* ex09: [GPSGame-Estados](ex09/README.md) - Usar Toast y Log.i para identificar los estados del sensor gps.
-* ex10: [GPSGame-Notificacion](ex10/README.md) - Vibración y Sonido cuando estás cerca de uno de los personajes en juego.
+* ex06: [Connect 4](ex06/README.md) - Connect 4 con interfaz gráfica simple.
+* ex07: [TTT Menu](ex07/README.md) - Tic Tac Toe con un menu para jugar contra la IA o contra otro jugador. 
+* ex08: [Connect4 Menu](ex08/README.md) - Connect 4 con un menu para jugar contra la IA o contra otro jugador.
+* ex09: [GPS Game Estados](ex09/README.md) - Usar Toast y Log.i para identificar los estados del sensor gps.
+* ex10: [GPS Game Notificacion](ex10/README.md) - Vibración y Sonido cuando estás cerca de uno de los personajes en juego.
+* ex11: [GPS Game On/Off](ex11/README.md) - Aparición de los personajes solo cuando estos se encuentren cerca de ti, y no antes.
