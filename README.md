@@ -15,3 +15,5 @@ Este repositorio cuenta con las siguientes aplicaciones:
 * ex06: [Connect4](ex06/README.md) - Connect 4 con interfaz gráfica simple.
 * ex07: [TTT-Menu](ex07/README.md) - Tic Tac Toe con un menu para jugar contra la IA o contra otro jugador. 
 * ex08: [Connect4-Menu](ex08/README.md) - Connect 4 con un menu para jugar contra la IA o contra otro jugador.
+* ex09: [GPSGame-Estados](ex09/README.md) - Usar Toast y Log.i para identificar los estados del sensor gps.
+* ex10: [GPSGame-Notificacion](ex10/README.md) - Vibración y Sonido cuando estás cerca de uno de los personajes en juego.
