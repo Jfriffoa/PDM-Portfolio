@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gpsGame</string>
+    <string name="title_activity_maps">GPS Game</string>
+
+    <string name="title_activity_fight">FightActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

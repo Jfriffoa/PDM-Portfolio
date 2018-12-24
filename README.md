@@ -18,3 +18,4 @@ Este repositorio cuenta con las siguientes aplicaciones:
 * ex09: [GPS Game Estados](ex09/README.md) - Usar Toast y Log.i para identificar los estados del sensor gps.
 * ex10: [GPS Game Notificacion](ex10/README.md) - Vibración y Sonido cuando estás cerca de uno de los personajes en juego.
 * ex11: [GPS Game On/Off](ex11/README.md) - Aparición de los personajes solo cuando estos se encuentren cerca de ti, y no antes.
+* ex12: [GPS Game Fight](ex12/README.md) - Ahora puedes pelear (y matar) a los personajes.
