@@ -21,3 +21,5 @@ Este repositorio cuenta con las siguientes aplicaciones:
 * ex12: [GPS Game Fight](ex12/README.md) - Ahora puedes pelear (y matar) a los personajes.
 * ex13: [List View HP](ex13/README.md) - Pequeña app que incorpora un ListView y que discrimina layout según el HP actual del personaje
 * ex14: [List View Feedback](ex14/README.md) - Feedback mediante Toast al clonar o eliminar
+* ex15: [List View Long Press](ex15/README.md) - La eliminación ahora ocurre al momento de hacer un Long Press
+* ex16: [List View Item Press](ex16/README.md) - Las acciones se realizan al presionar el item, no solo la imagen 
